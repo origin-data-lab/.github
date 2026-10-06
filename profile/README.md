@@ -176,7 +176,7 @@ RGB Video · IMU · Sensor Measurement · Temporal Alignment · Metadata · Tech
 
 Public technical field note documenting an egocentric RGB + IMU capture evaluation, including measured sensor characteristics, timestamp analysis, temporal alignment, integrity checks, and reproducibility considerations.
 
-→ Explore Video + IMU Capture Evaluation
+→ [Explore Video + IMU Capture Evaluation](https://origindatalab.io/technical-field-notes/egocentric-rgb-imu-task-sample.html)
 
 ---
 

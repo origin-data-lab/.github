@@ -170,6 +170,16 @@ Public multimodal and egocentric dataset samples are available through our offic
 
 ---
 
+### 04 — Technical Field Note: Video + IMU Capture Evaluation
+
+RGB Video · IMU · Sensor Measurement · Temporal Alignment · Metadata · Technical Validation
+
+Public technical field note documenting an egocentric RGB + IMU capture evaluation, including measured sensor characteristics, timestamp analysis, temporal alignment, integrity checks, and reproducibility considerations.
+
+→ Explore Video + IMU Capture Evaluation
+
+---
+
 # Field → Dataset Pipeline
 
 | Stage | Production Layer | What We Validate |

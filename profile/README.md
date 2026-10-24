@@ -177,7 +177,7 @@ Measured results, methods and stated limitations from Origin Data Lab captures. 
 |---|---|---|
 | 01 | [Measured Video + IMU Capture Characteristics](https://origindatalab.io/technical-field-notes/video-imu-capture-evaluation.html) | [video-imu-capture-evaluation](https://github.com/origin-data-lab/video-imu-capture-evaluation) |
 | 02 | [Egocentric RGB + IMU Task Sample](https://origindatalab.io/technical-field-notes/egocentric-rgb-imu-task-sample.html) | [egocentric-rgb-imu-sample](https://github.com/origin-data-lab/egocentric-rgb-imu-sample) |
-| 03 | [Stereo + IMU Egocentric Capture](https://origindatalab.io/technical-field-notes/stereo-imu-egocentric-sample.html) | [stereo-imu-egocentric-capture](https://github.com/origin-data-lab/stereo-imu-egocentric-capture) |
+| 03 | [Stereo + IMU Egocentric Capture](https://origindatalab.io/technical-field-notes/stereo-imu-egocentric-sample.html) | [stereo-imu-egocentric-evaluation](https://github.com/origin-data-lab/stereo-imu-egocentric-evaluation) |
 | 04 | [Checking a Stereo Calibration on Ordinary Footage](https://origindatalab.io/technical-field-notes/stereo-calibration-check.html) | [stereo-calibration-validation](https://github.com/origin-data-lab/stereo-calibration-validation) |
 
 **[→ All Technical Field Notes](https://origindatalab.io/technical-field-notes/)**

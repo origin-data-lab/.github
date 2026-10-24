@@ -15,7 +15,6 @@
 
 ![Video](https://img.shields.io/badge/VIDEO-RGB_%7C_STEREO-555555?style=flat-square)
 ![IMU](https://img.shields.io/badge/IMU-6--AXIS-555555?style=flat-square)
-![Audio](https://img.shields.io/badge/AUDIO-SYNCHRONIZED-555555?style=flat-square)
 ![Metadata](https://img.shields.io/badge/METADATA-STRUCTURED-555555?style=flat-square)
 ![QC](https://img.shields.io/badge/QC-VALIDATED-555555?style=flat-square)
 
@@ -170,13 +169,18 @@ Public multimodal and egocentric dataset samples are available through our offic
 
 ---
 
-### 04 — Technical Field Note: Video + IMU Capture Evaluation
+### 04 — Technical Field Notes
 
-RGB Video · IMU · Sensor Measurement · Temporal Alignment · Metadata · Technical Validation
+Measured results, methods and stated limitations from Origin Data Lab captures. Each note has a public repository.
 
-Public technical field note documenting an egocentric RGB + IMU capture evaluation, including measured sensor characteristics, timestamp analysis, temporal alignment, integrity checks, and reproducibility considerations.
+| # | Field note | Repository |
+|---|---|---|
+| 01 | [Measured Video + IMU Capture Characteristics](https://origindatalab.io/technical-field-notes/video-imu-capture-evaluation.html) | [video-imu-capture-evaluation](https://github.com/origin-data-lab/video-imu-capture-evaluation) |
+| 02 | [Egocentric RGB + IMU Task Sample](https://origindatalab.io/technical-field-notes/egocentric-rgb-imu-task-sample.html) | [egocentric-rgb-imu-sample](https://github.com/origin-data-lab/egocentric-rgb-imu-sample) |
+| 03 | [Stereo + IMU Egocentric Capture](https://origindatalab.io/technical-field-notes/stereo-imu-egocentric-sample.html) | [stereo-imu-egocentric-capture](https://github.com/origin-data-lab/stereo-imu-egocentric-capture) |
+| 04 | [Checking a Stereo Calibration on Ordinary Footage](https://origindatalab.io/technical-field-notes/stereo-calibration-check.html) | [stereo-calibration-validation](https://github.com/origin-data-lab/stereo-calibration-validation) |
 
-→ [Explore Video + IMU Capture Evaluation](https://origindatalab.io/technical-field-notes/egocentric-rgb-imu-task-sample.html)
+**[→ All Technical Field Notes](https://origindatalab.io/technical-field-notes/)**
 
 ---
 
